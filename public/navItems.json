@@ -1,0 +1,107 @@
+[
+    {
+        "path":"",
+        "name":"SERVICES",
+        "items":[
+            {
+                "path":"/web-development",
+                "name":"WEB DEVELOPMENT"
+            },
+            {
+                "path":"/software",
+                "name":"SOFTWARE"
+            },
+            {
+                "path":"/mob-applications",
+                "name":"MOB APPLICATIONS"
+            },
+            {
+                "path":"/consultancy-analysis",
+                "name":"CONSULTANCY & ANALYSIS"
+            }
+        ]
+    },
+    {
+        "path":"",
+        "name":"SOLUTION",
+        "items":[
+            {
+                "path":"/business-automation",
+                "name":"BUSINESS AUTOMATION"
+            },
+            {
+                "path":"/product",
+                "name":"PRODUCT DEVELOPMENT"
+            },
+            {
+                "path":"/e-commerce",
+                "name":"E-COMMERCE"
+            },
+            {
+                "path":"/database",
+                "name":"DATABASE SOLUTION"
+            }
+        ]
+    },{
+        "path":"",
+        "name":"OUR APPROACH",
+        "items":[
+            {
+                "path":"/understanding",
+                "name":"UNDERSTANDING"
+            },
+            {
+                "path":"/analysis"
+                ,"name":"ANALYSIS"
+            },
+            {
+                "path":"/design",
+                "name":"DESIGN"
+            },
+            {
+                "path":"/development",
+                "name":"DEVELOPMENT"
+            },
+            {
+                "path":"/testing",
+                "name":"TESTING & QA"
+            },
+            {
+                "path":"/feedback",
+                "name":"LIVE & FEEDBACK"
+            },
+            {
+                "path":"/support",
+                "name":"SUPPORT & MAINTENANCE"
+            }
+        ]
+    },
+    {
+        "path":"/career",
+        "name":"CAREER",
+        "items":[]
+    },
+    {
+        "path":"",
+        "name":"ABOUT US",
+        "items":[
+            {
+                "path":"/our-company",
+                "name":"Our Company"
+            },
+            {
+                "path":"/why-kurkuri",
+                "name":"Why Kurkuri "
+            },
+            {
+                "path":"/blog",
+                "name":"Blog"
+            }
+        ]
+    },
+    {
+        "path":"/contact-us",
+        "name":"CONTACT US",
+        "items":[]
+    }
+]
